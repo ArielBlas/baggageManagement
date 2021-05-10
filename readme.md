@@ -48,12 +48,12 @@ npm run start
 npm run seed
 ```
 
-Para ingreasar al administrador
+Para ingresar al administrador
 
 - Email: admin@admin.com
 - Password: admin
 
-Numero de boletos que podes usar
+Número de boletos que podes usar
 
 - air00 - air01 - air02 - air03 - air04
 
