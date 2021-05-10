@@ -59,8 +59,8 @@ Numero de boletos que podes usar
 
 ## Vistas:
 
-- [Vista Home] (https://github.com/ArielBlas/baggageManagement/blob/master/screenshots/Home.png)
-- [Vista de Equipajes] (https://github.com/ArielBlas/baggageManagement/blob/master/screenshots/Equipajes.png)
+* [Vista Home](https://github.com/ArielBlas/baggageManagement/blob/master/screenshots/Home.png)
+- [Vista de Equipajes](https://github.com/ArielBlas/baggageManagement/blob/master/screenshots/Equipajes.png)
 - [Vista de Creación de Equipaje] (https://github.com/ArielBlas/baggageManagement/blob/master/screenshots/CreacionDeEquipaje.png)
 - [Vista de Ingreso de Pasajero] (https://github.com/ArielBlas/baggageManagement/blob/master/screenshots/IngresoDePasajero.png)
 - [Vista de Panel de Pasajero] (https://github.com/ArielBlas/baggageManagement/blob/master/screenshots/PanelDePasajero.png)
