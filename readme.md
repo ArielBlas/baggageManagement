@@ -8,7 +8,7 @@
 
 - [NodeJS](https://nodejs.org/es/docs/) - El mejor entorno de tiempo de ejecución de JavaScript
 - [Sequelize](https://sequelize.org/) - Gestión de base de datos relacionales
-- [Gatsby](https://www.gatsbyjs.com/) - Libreria de React para la construción de sitios estaticos.
+- [Gatsby](https://www.gatsbyjs.com/) - Framework de React para la construción de sitios estaticos.
 - [Sass](https://sass-lang.com/) - Extensión CSS de calidad profesional más maduro, estable y poderoso del mundo.
 - [Bootstrap](https://getbootstrap.com/) - El kit de herramientas de código abierto de front-end más popular del mundo.
 
